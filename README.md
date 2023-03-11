@@ -6,6 +6,7 @@ In completing this project, I have gained the following expierence.
 - Converted schema to a database with SQL and inputted sample information
 - Applied basic and nested queries with wildcards, union, joins, and functions to gather information within the data
 
-FreeCodeCamp Video Link: https://www.youtube.com/watch?v=HXV3zeQKqGY
-Further Educational Material: https://www.mikedane.com/databases/sql/creating-company-database/
-Download POPSQL: https://popsql.com/freecodecamp
+Links
+- FreeCodeCamp Video Link: https://www.youtube.com/watch?v=HXV3zeQKqGY
+- Further Educational Material: https://www.mikedane.com/databases/sql/creating-company-database/
+- Download POPSQL: https://popsql.com/freecodecamp
