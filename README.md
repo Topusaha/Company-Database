@@ -1,12 +1,19 @@
-# Company-Database
+# Intro to Data Science Deliverable 2- *MNIST Classification and Clustering*
 
-This project was created for me to learn the basics of SQL. The education material used for this project is linked below. 
-In completing this project, I have gained the following expierence. 
-- Designed an ER diagram from a description pdf of a company database system and converted it to a schema 
-- Converted schema to a database with SQL and inputted sample information
-- Applied basic and nested queries with wildcards, union, joins, and functions to gather information within the data
+Submitted by: **Topu Saha and Stephanie Abanilla**
 
-Links
-- FreeCodeCamp Video Link: https://www.youtube.com/watch?v=HXV3zeQKqGY
-- Further Educational Material: https://www.mikedane.com/databases/sql/creating-company-database/
-- Download POPSQL: https://popsql.com/freecodecamp
+## Required Features
+
+The following functionality is completed:
+
+- [X] SGD Classification for the digit 5
+- [X] Logistic Reggression
+- [X] Support Vector Machines
+- [X] K-Means Clustering
+- [ ] Analysis Paper
+      
+
+## Directions to Run Code
+1. Run file SGDClasification.ipynb on Google Colab
+2. To See Support Vector Machine Results run the file SVM.ipynb on Google Colab
+3. To See Logisitic Regression and K-Means run the file Logistic_Reggression_&_K-Means.ipynb on Google Colab
